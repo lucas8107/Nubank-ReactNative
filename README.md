@@ -2,6 +2,10 @@
 
 Nubank mobile app interface replicated using ReactNative, base on the [video](https://www.youtube.com/watch?v=DDm0M_rZLJo)
 
+<p align="center">
+  <img width="216"src="nubankreack.gif">
+</p>
+
 # Getting Started
 
 ## Prerequisites
@@ -23,10 +27,8 @@ and the bellow to install the app into your android emulator:
 
 `npx react-native run-android`
 
-<p align="center">
-  <img width="324" height="576" src="nubankreack.gif">
-</p>
+
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
