@@ -39,6 +39,9 @@ export default function Menu({ translateY }) {
           <Icon name="smartphone" size={20} color="#fff" />
           <NavText>Configurações do app</NavText>
         </NavItem>
+        <SignOutButton onPress={()=>{}}>
+        <SignOutButtonText>SAIR DO APP</SignOutButtonText>
+      </SignOutButton>
       </Nav>
 
       <SignOutButton onPress={()=>{}}>
